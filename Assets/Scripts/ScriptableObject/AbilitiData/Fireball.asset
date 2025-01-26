@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbd0407a6f65c364d9dd62f9f8a01cc8, type: 3}
+  m_Name: Fireball
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 21300000, guid: e32b8056f5f2eb741bec42f791c7f1b5, type: 3}
+  _Name: Fireball
+  _Description: Damage per click 125
+  price: 8000
+  projectile: {fileID: 8854351495143987298, guid: 34932c83d2c0ac14ab168d6cde014576,
+    type: 3}
+  isDamagePerSeconde: 0
+  damage: 125
